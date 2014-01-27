@@ -24,7 +24,7 @@ body {
   margin-bottom: 0px;
 }
 
-.content p:first-of-type {
+p {
   margin-top: 10px;
 }
 
