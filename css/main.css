@@ -15,9 +15,13 @@ body {
 .header {
   border-bottom: 1px solid #e5e5e5;
 }
-/* Make the masthead heading the same colour as the navigation */
+/* Make the masthead heading the same colour as the navigation*/
 .header h1 {
   color: #428bca;
+}
+
+.header h1 a:hover {
+  text-decoration: none;
 }
 
 .content h1 {
