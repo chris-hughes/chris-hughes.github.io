@@ -24,9 +24,9 @@
         <div class="container">
           <div class="header">
             <ul class="nav nav-pills pull-right">
-              <li class="active"><a href="/">Home</a></li>
-              <li><a href="/play/">Play</a></li>
-              <li><a href="/contact/">Contact</a></li>
+              <li {% if page.url == "/" %}class="active"{% endif %}><a href="/">Home</a></li>
+              <li {% if page.url == "/play/" %}class="active"{% endif %}><a href="/play/">Play</a></li>
+              <li {% if page.url == "/contact/" %}class="active"{% endif %}><a href="/contact/">Contact</a></li>
             </ul>
             <h1><a href="/">Conquering Quoridor</a></h1>
           </div>
