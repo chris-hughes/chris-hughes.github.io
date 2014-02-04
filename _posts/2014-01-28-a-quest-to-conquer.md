@@ -22,7 +22,7 @@ In reality, solving the game will probably be far beyond my reach, but that does
 
 ### Am I qualified to actually do this?
 
-A few years ago I spent my time studying maths at university. Recently I came across some maths that would have been no problem to 20 year old me, yet I found myself starring blankly at the page (what the hell is a dot product anyway?). Realising I was well into my mathematical decline was one of the main motivations for this project.
+A few years ago I spent my time studying maths at university. Recently I came across some maths that would have been no problem to 20 year old me, yet I found myself staring blankly at the page (what the hell is a dot product anyway?). Realising I was well into my mathematical decline was one of the main motivations for this project.
 
 Since university i've been lucky enough to hang out with some people doing great things in the web development world (check out what <a href="http://benjaminbenben.com">Ben Foxall</a> is getting up to). Through these contacts i've dabbled in a bit of Javascript which is what I intend to do most of my work on this project in, if possible.
 
