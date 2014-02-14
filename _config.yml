@@ -1,10 +1,11 @@
 title:            Conquering Quoridor
 description:      One man's quest to beat a boardgame.
+# logo:             site-logo.png
 logo:             quoridor-france.jpg
 disqus_shortname: 
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              chris-hughes.github.io
+url:              http://chris-hughes.github.io
 
 # Owner/author information
 owner:
