@@ -36,10 +36,10 @@ links:
   - title: Home
     url: /
   - title: Play
-    url: /theme-setup/
+    url: /play/
   - title: Contact
-    url: http://mademistakes.com
-    external: true
+    url: /tags/
+    # external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London
