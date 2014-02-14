@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">Conquering Quoridor</title>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2014-02-14T17:03:04+00:00</updated>
+<id>http://localhost:4000/</id>
+<author>
+  <name>Chris Hughes</name>
+  <uri>http://localhost:4000/</uri>
+  <email>hughes.c.i@gmail.com</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[A Quest to Conquer!]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/a-quest-to-conquer/"/>
+  <id>http://localhost:4000/articles/a-quest-to-conquer</id>
+  <published>2014-01-28T00:00:00+00:00</published>
+  <updated>2014-01-28T00:00:00+00:00</updated>
+  <author>
+    <name>Chris Hughes</name>
+    <uri>http://localhost:4000</uri>
+    <email>hughes.c.i@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;So i’ve finally got my act together and decided to set myself a challenge. Not being content with only taking on the stress of regularly updating a blog, i’ve also decided to pick a problem that I’m not even sure I can do! But I am hoping it will provide a number of interesting problems covering a variety of areas that I can at least have a go at.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-challenge&quot;&gt;The challenge&lt;/h3&gt;
+
+&lt;p&gt;So what’s the challenge? Simply put, i’m going to beat a board game. Specifically, I’m going to solve a board game. Even more specifically, I’m going to solve the board game &lt;a href=&quot;http://en.wikipedia.org/wiki/Quoridor&quot;&gt;Quoridor&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;For those of you not familiar with Quoridor, it is a 2 or 4 player strategy game where you race through self made mazes which develop as the game is played. Sounds good right? Here’s a video explaining how to play (plus a little on strategy too).&lt;/p&gt;
+
+&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/KcuBheYqdjs&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot; allowfullscreen=&quot;true&quot;&gt;&lt;!----&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Now that we’ve seen how to play Quoridor, what does solving it mean? Well i’m already at a point where i don’t know enough to adequately answer that, but from the research i’ve done so far it can best be summed up as being able to identify the perfect move in any given situation.&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;NB. If any mathemiticians are cringing at that definition please bear in mind that I have only just begun and I have much to learn&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;In reality, solving the game will probably be far beyond my reach, but that doesn’t mean I shouldn’t try! If all I end up with is a kick-ass AI opponent I won’t be too upset.&lt;/p&gt;
+
+&lt;h3 id=&quot;am-i-qualified-to-actually-do-this&quot;&gt;Am I qualified to actually do this?&lt;/h3&gt;
+
+&lt;p&gt;A few years ago I spent my time studying maths at university. Recently I came across some maths that would have been no problem to 20 year old me, yet I found myself staring blankly at the page (what the hell is a dot product anyway?). Realising I was well into my mathematical decline was one of the main motivations for this project.&lt;/p&gt;
+
+&lt;p&gt;Since university i’ve been lucky enough to hang out with some people doing great things in the web development world (check out what &lt;a href=&quot;http://benjaminbenben.com&quot;&gt;Ben Foxall&lt;/a&gt; is getting up to). Through these contacts i’ve dabbled in a bit of Javascript which is what I intend to do most of my work on this project in, if possible.&lt;/p&gt;
+
+&lt;p&gt;So I think you can all see that if anything I am over-qualified for this job! More realistically I’m an enthusiastic amateur looking forward to learning all the aspects involved in this.&lt;/p&gt;
+
+&lt;h3 id=&quot;havent-other-people-already-done-this&quot;&gt;Haven’t other people already done this?&lt;/h3&gt;
+
+&lt;p&gt;Yes! A quick google search will turn up a few online games plus an &lt;a href=&quot;https://play.google.com/store/apps/details?id=air.QuoridorBoardGame&quot;&gt;Android app&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This doesn’t dishearten me, if anything it provides me with necessary competition! Any AI that I create can be directly competed against theirs. &lt;/p&gt;
+
+&lt;p&gt;If I can build the number one quoridor engine in the world I would be so happy. The ten other guys who’ve ever tried can suck it!&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/a-quest-to-conquer/&quot;&gt;A Quest to Conquer!&lt;/a&gt; was originally published by Chris Hughes at &lt;a href=&quot;http://localhost:4000&quot;&gt;Conquering Quoridor&lt;/a&gt; on January 28, 2014.&lt;/p&gt;</content>
+</entry>
+
+</feed>

@@ -1,7 +1,12 @@
 ---
 layout: post
-title:  "A Quest to Conquer!"
-date:   2014-01-28 20:25:00
+title: A Quest to Conquer!
+description: "Mission statement for blog and brief introduction to Quoridor"
+<!-- modified: 2014-01-28 -->
+category: articles
+tags: []
+comments: true
+share: true
 ---
 
 So i've finally got my act together and decided to set myself a challenge. Not being content with only taking on the stress of regularly updating a blog, i've also decided to pick a problem that I'm not even sure I can do! But I am hoping it will provide a number of interesting problems covering a variety of areas that I can at least have a go at.
