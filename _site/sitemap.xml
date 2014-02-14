@@ -6,6 +6,10 @@
     
     
     <url>
+        <loc>http://localhost:4000/articles/baby-steps/</loc>
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/articles/a-quest-to-conquer/</loc>
     </url>
     

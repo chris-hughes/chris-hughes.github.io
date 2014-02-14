@@ -4,13 +4,50 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2014-02-14T17:03:04+00:00</updated>
+<updated>2014-02-14T17:07:12+00:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>Chris Hughes</name>
   <uri>http://localhost:4000/</uri>
   <email>hughes.c.i@gmail.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Baby Steps]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/articles/baby-steps/"/>
+  <id>http://localhost:4000/articles/baby-steps</id>
+  <published>2014-02-13T00:00:00+00:00</published>
+  <updated>2014-02-13T00:00:00+00:00</updated>
+  <author>
+    <name>Chris Hughes</name>
+    <uri>http://localhost:4000</uri>
+    <email>hughes.c.i@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;So whilst not much has happened on this blog for the past two weeks I have been spending a little time here and there on the project. Unfortunately I’ve fallen into the trap of putting off updating the blog until I’ve made ‘meaningful progress’, whatever that is! Well instead of waiting for that to happen I want to discuss my current thoughts on how I plan to progress&lt;/p&gt;
+
+&lt;h3 id=&quot;splitting-the-problem-up&quot;&gt;Splitting the problem up&lt;/h3&gt;
+
+&lt;p&gt;I’ve found that when I’m thinking about Quoridor my thoughts will bounce around trying to solve everything at once. Whilst that can be fun and produces loads of ideas it doesn’t get you very far. The obvious solution is to break the problem down and then focus on the smaller problems. &lt;/p&gt;
+
+&lt;p&gt;The biggest and most important split is to separate the playing of the game from the AI. In theory with a team of clever people I believe you could work simultaneously on these two aspects, if you agreed on a communication protocol. Now that does sound pretty cool but unfortunately I am a team of one so it’s not an option. Even though when I started this I was most interested in the AI aspect I’ve decided to begin with building the game for the simple reason that I have no idea how i would do it the other way round!&lt;/p&gt;
+
+&lt;p&gt;There are actually many good reasons to start with building a playable game:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I have a better idea of what is needed and so will be a good place to refresh my Javascript skill&lt;/li&gt;
+  &lt;li&gt;Provides some good visual milestones which will be good for motivation&lt;/li&gt;
+  &lt;li&gt;Will force me to understand the finer points of the rules&lt;/li&gt;
+  &lt;li&gt;I’ll need something for my AI to interact with&lt;/li&gt;
+  &lt;li&gt;With a bit of extracurricular work I should be able to play against people online!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;building-the-game&quot;&gt;Building the game&lt;/h3&gt;
+
+&lt;p&gt;So now i have focused in on building the game I’m busy researching all the different aspects involved, which will be the focus of my next post, hopefully not too long from now.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/baby-steps/&quot;&gt;Baby Steps&lt;/a&gt; was originally published by Chris Hughes at &lt;a href=&quot;http://localhost:4000&quot;&gt;Conquering Quoridor&lt;/a&gt; on February 13, 2014.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
