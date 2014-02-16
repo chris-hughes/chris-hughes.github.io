@@ -20,7 +20,7 @@ Now I know I'm aiming to build a board game, but I couldn't resist having a play
 
 I don't think I'm going to win any awards with this but I've certainly learned a lot about the frustrations of working with image files! The game is fairly basic with the aim being to kill all the (evil?) slugs by jumping on them. It's not really polished but I'm trying to follow my own advice and not worry about that, just post and move on.
 
-<div id="game" style="width:640px; height: 640px; background-color:red;"></div>
+<div id="game" style="width:640px; height: 640px;"></div>
 
 ### Building the game
 
@@ -53,3 +53,6 @@ The final piece was to kill the snail/player, depending on how they collide. In 
 ### Thoughts on Phaser
 
 Having built my simple game I can say that I'm extremely impressed with Phaser. It was really quick to get started and has powerful features that are simple to use, plus it has a lot more functionality that I haven't explored yet. Whilst I enjoyed using it and I think I could build a pretty good Quoridor game using it, I'm going to have to put some further thought into whether this is the right direction to go. It may be quick however I'm a little concerned that it may force me to implement things in a certain way that may cause problems later.
+
+<script type="text/javascript" src="//localhost:4000/phaser_fun/js/phaser.min.js"></script>
+<script type="text/javascript" src="//localhost:4000/phaser_fun/js/game.js"></script>
