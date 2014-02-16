@@ -24,7 +24,7 @@ I don't think I'm going to win any awards with this but I've certainly learned a
 
 ### Building the game
 
-Phaser is amazingly simple to get started, it really only took me a couple of days to throw the game together and most of that time was not spent writing endless code. The game took less than 100 lines of code, excluding Phaser itself. Everything on this site (including the site itself) is open source so feel free to <a href="#" target="_blank">take a look at the game</a> and as usual all comments/tweaks are very welcome.
+Phaser is amazingly simple to get started, it really only took me a couple of days to throw the game together and most of that time was not spent writing endless code. The game took less than 100 lines of code, excluding Phaser itself. Everything on this site (including the site itself) is open source so feel free to <a href="https://github.com/chris-hughes/phaser_fun/" target="_blank">take a look at the game</a> and as usual all comments/tweaks are very welcome.
 
 There were 3 main stages in building the game:
 
