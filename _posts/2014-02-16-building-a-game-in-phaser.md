@@ -54,5 +54,5 @@ The final piece was to kill the snail/player, depending on how they collide. In 
 
 Having built my simple game I can say that I'm extremely impressed with Phaser. It was really quick to get started and has powerful features that are simple to use, plus it has a lot more functionality that I haven't explored yet. Whilst I enjoyed using it and I think I could build a pretty good Quoridor game using it, I'm going to have to put some further thought into whether this is the right direction to go. It may be quick however I'm a little concerned that it may force me to implement things in a certain way that may cause problems later.
 
-<script type="text/javascript" src="//chris-hughes.github.io/phaser_fun/js/phaser.min.js"></script>
-<script type="text/javascript" src="//chris-hughes.github.io/phaser_fun/js/game.js"></script>
+<script type="text/javascript" src="/assets/phaser_fun/js/phaser.min.js"></script>
+<script type="text/javascript" src="/assets/phaser_fun/js/game.js"></script>
